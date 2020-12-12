@@ -1,0 +1,162 @@
+{
+    "description": "A \"code\" theme for Women and Non Binary",
+    "layout": "boxed",
+    "style": "minimal",
+    "palette": "green",
+    "mode": "light",
+    "base_font": "sans-serif",
+    "header": {
+        "title": "Women CAN Code",
+        "has_primary_nav": true,
+        "primary_nav_links": [
+            {
+                "label": "Certifications",
+                "url": "/certifications",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            },
+            {
+                "label": "KickStart",
+                "url": "/kickstart",
+                "style": "link"
+            },
+            {
+                "label": "Donations",
+                "url": "/donations",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link"
+            },
+            {
+                "label": "Join Us",
+                "url": "/pricing",
+                "style": "primary"
+            }
+        ],
+        "has_anncmnt": true,
+        "anncmnt_content": "We are supporting the UK&nbsp;Governments Kick&nbsp;Start Scheme🎉 — **[Learn More](/kickstart/)**",
+        "anncmnt_align": "center",
+        "anncmnt_is_home_only": true,
+        "anncmnt_has_close": true,
+        "anncmnt_id": "new-features",
+        "logo": "images/wcc-600x300-logo.png"
+    },
+    "footer": {
+        "logo": "images/wcc-600x300-logo.png",
+        "has_primary_nav": true,
+        "primary_nav_title": "Company",
+        "primary_nav_links": [
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_title": "Blog",
+        "secondary_nav_links": [
+            {
+                "label": "News",
+                "url": "/blog/category/news",
+                "style": "link"
+            },
+            {
+                "label": "General",
+                "url": "/blog/category/general",
+                "style": "link"
+            },
+            {
+                "label": "Tutorials",
+                "url": "/blog/category/tutorials",
+                "style": "link"
+            }
+        ],
+        "has_tertiary_nav": true,
+        "tertiary_nav_title": "Legal",
+        "tertiary_nav_links": [
+            {
+                "label": "Terms & Conditions",
+                "url": "/terms-conditions",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/womencancode",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/womencancode",
+                "style": "link",
+                "has_icon": true,
+                "icon": "github",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/company/womencancode",
+                "style": "link",
+                "has_icon": true,
+                "icon": "linkedin",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "",
+                "url": "https://www.instagram.com/womencancode",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ],
+        "content": "&copy; Women Can Code. All rights reserved.",
+        "links": [
+            {
+                "label": "Part of Women In Tech.",
+                "url": "https://www.womenintech.me",
+                "style": "link"
+            }
+        ]
+    },
+    "title": "Women CAN Code"
+}
