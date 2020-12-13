@@ -66,7 +66,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-    tag: src/data/tags/tag-nenou65uw.json
+    tag: src/data/tags/tag-wabunddtn.json
   - type: form_section
     title: Inline Form
     title_align: center
