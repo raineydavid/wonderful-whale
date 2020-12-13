@@ -29,6 +29,14 @@ sections:
         icon_position: right
         new_window: true
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
     video_embed_html: >-
       <iframe width="552" height="310"
       src="https://www.youtube.com/embed/bS9882S0ZHs" frameborder="0"
