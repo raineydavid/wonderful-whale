@@ -14,9 +14,11 @@ sections:
     subtitle: ''
     content: |+
       ## The Rules
-      - Code minimum an hour every day for the next 100 days
-      - Update your progress every day with the #100DaysOfCode hashtag.
+      - Code the 25 code puzzles before 25 December 
+      - Join the Women Can Code Leaderboard
+      - Update your progress every day with the #AdventOfCode hashtag.
       - Upload a picture of yourself, your work
+
 
     actions:
       - label: View Community
