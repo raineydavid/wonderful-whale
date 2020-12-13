@@ -3,7 +3,7 @@ title: 100 Days of Code
 excerpt: lorem-ipsum
 sections:
   - type: hero_section
-    title: 100 Days of Code Challenge
+    title: Advent of Code Challenge
     subtitle: Tracking our Progress
     align: center
     padding_top: medium
