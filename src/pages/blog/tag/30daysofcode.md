@@ -31,7 +31,7 @@ sections:
         type: action
     video_embed_html: >-
       <iframe width="552" height="310"
-      src="https://www.youtube.com/embed/6y5P7O7YlBU" frameborder="0"
+      src="https://www.youtube.com/embed/bS9882S0ZHs" frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media;
       gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_position: right
