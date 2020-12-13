@@ -14,7 +14,7 @@ sections:
     subtitle: ''
     content: |+
       ## The Rules
-      - Code the 25 code puzzles before 25 December 
+      - Code the 24 code puzzles before 25 December 
       - Join the Women Can Code Leaderboard
       - Update your progress every day with the #AdventOfCode hashtag.
       - Upload a picture of yourself, your work
