@@ -22,7 +22,7 @@ sections:
 
     actions:
       - label: View Community
-        url: 'https://twitter.com/search?q=%23100DaysOfCode'
+        url: 'https://twitter.com/search?q=%23AdventOfCode'
         style: primary
         has_icon: true
         icon: arrow-right
