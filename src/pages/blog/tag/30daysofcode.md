@@ -30,7 +30,7 @@ sections:
         new_window: true
         type: action
       - label: Join Challenge
-        url: lorem-ipsum
+        url: www.adventofcode.com
         style: primary
         has_icon: false
         icon: arrow-left
