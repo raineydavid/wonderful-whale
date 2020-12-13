@@ -1,8 +1,6 @@
 ---
 title: 30 Days Of Code
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: ''
 date: '2020-06-02'
 author: src/data/team/gustav-purpleson.yaml
 categories:
