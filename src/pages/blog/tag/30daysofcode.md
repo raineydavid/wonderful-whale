@@ -29,7 +29,7 @@ sections:
         icon_position: right
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: Join Challenge
         url: lorem-ipsum
         style: link
         has_icon: false
