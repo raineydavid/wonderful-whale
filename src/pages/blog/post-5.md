@@ -1,6 +1,6 @@
 ---
 title: 30 Days Of Code
-subtitle: ''
+subtitle: A Learners Guide To 30 Days Of Code
 date: '2020-06-02'
 author: src/data/team/gustav-purpleson.yaml
 categories:
